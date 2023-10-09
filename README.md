@@ -1,1 +1,1 @@
-# ZenhubPractice
+# lab-agile-planning
